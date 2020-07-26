@@ -16,9 +16,8 @@ h1{
 }
 h2{
 	
-  font-family: 'helvetica neue', helvetica, sans-serif;
+  font-family: 'verdana', helvetica, sans-serif;
   letter-spacing: 1px;
-  text-transform: uppercase;
   text-align: center;
   border: 2px solid rgba(0,0,200,0.6);
   background: rgba(0,0,200,0.3);
